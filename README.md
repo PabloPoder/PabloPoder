@@ -1,7 +1,7 @@
 <h1>Hola 👋, soy Pablo Poder</h1>
 <h3>Desarrollador de Videojuegos y Software de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en mi <a href="pablopoder.surge.sh">mi portfolio</a>
+- 🔭 Actualmente estoy trabajando en mi portfolio https://pablopoder.surge.sh
 
 - 👨‍💻 Todos mi proyectos estan disponibles en [Repositorios](https://github.com/PabloPoder?tab=repositories)
 
