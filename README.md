@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mi proyectos estan disponibles en [Repositorios](https://github.com/PabloPoder?tab=repositories)
 
-- 🌱 Actualemente estoy aprendiendo **NodeJS, React, TypeScript**
+- 🌱 Actualemente estoy formandome en **NodeJS, React, TypeScript**
 
 - 📫 Puedes contactarme **pablo.poder.mail@gmail.com**
 
