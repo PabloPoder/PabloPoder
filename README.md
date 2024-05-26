@@ -1,15 +1,11 @@
 <h1>Hola 👋, soy Pablo Poder</h1>
 <h3>Desarrollador de Videojuegos y Software de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en mi portfolio. https://pablopoder.surge.sh/ (En desarrollo)
+- 🔭 Actualemente estoy desarrollando una [app](https://github.com/PabloPoder/discord_bot) de Discord con Python.
 
 - 👨‍💻 Todos mi proyectos estan disponibles en [Repositorios](https://github.com/PabloPoder?tab=repositories)
 
-- 🌱 Actualemente estoy formandome en **NodeJS, React, TypeScript**
-
 - 📫 Puedes contactarme **pablo.poder.mail@gmail.com**
-
-- 📄 Conoce acerca de mi experiencia [curriculum](https://docs.google.com/document/d/1K5fS942r2CX3YxIlnDAaUh_3AfgfKZAmzBLab3uwJ5k/edit?usp=sharing)
 
 <h3 align="left">Redes:</h3>
 <p align="left">
